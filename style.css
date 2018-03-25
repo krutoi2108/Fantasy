@@ -1,0 +1,56 @@
+body{
+  background-image:  url("img/forest.jpg");
+  background-size: 100%;
+  background-attachment: fixed;
+  background-repeat: round;
+}
+
+table{
+  margin-top: 25px;
+  border-color: blue;
+  text-align: center;
+  font-size: 25px;
+  color: green;
+  font-style: oblique;
+  background-color: lightblue;
+  }
+
+img{
+    height: 50%;
+    border-radius: 10px;
+    box-shadow: 0 0 5px black;
+}
+
+h1
+{
+  color: blue;
+  text-align: center;
+  font-size: 50px;
+  text-shadow: 0 0 5px violet;
+}
+p
+{
+  color: yellow;
+  font-style: oblique;
+  font-size: 35px;
+  text-align: center;
+  text-shadow: 0 0 5px lime;
+}
+
+a img{
+  border: 5px solid green;
+}
+
+a:hover img{
+   border: 5px solid orange;
+}
+
+a{
+  color: green;
+  font-style: oblique;
+  font-size: 30px;
+  text-shadow: 0 0 5px white;
+}
+a:hover{
+   color: darkred;
+}
